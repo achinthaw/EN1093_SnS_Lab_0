@@ -1,4 +1,4 @@
-# Signals And Systems
+# Signals and Systems
 This repository contains the resources requried for the orientation session for the Signals and Systems labs for the ENTC19 batch. Please follow the following instructions to access these resources.
 
 ## Prerequisits
@@ -25,5 +25,5 @@ drive.mount('/content/drive')
 ```
 ! git clone https://github.com/achinthaw/SignalsAndSystems.git
 ```
-* Close the "Clone_File.ipynb" and open the colab file ("Introduction_to_Google_Colab.ipynb") inside the newly cloned repository.
+* Close the "Clone_File.ipynb" and open the colab file ("Introduction_to_Numpy_&_Matplotlib.ipynb") inside the newly cloned repository.
 Looking forwards to seeing you at class! :)
