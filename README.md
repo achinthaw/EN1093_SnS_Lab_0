@@ -1,5 +1,5 @@
 # Signals and Systems
-This repository contains the resources requried for the orientation session for the EN1093 Signals and Systems lab classes. Please follow the following instructions to access these resources.
+This repository contains the resources requried for the EN1093 Numpy Orientation session for the EN1093 Signals and Systems lab classes. Please follow the following instructions to access these resources.
 
 ## Tips
 Be familiar with Google Colab and using GitHub before starting this lab. 
