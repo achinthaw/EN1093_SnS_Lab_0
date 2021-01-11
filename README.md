@@ -13,5 +13,17 @@ This repository contains the resources requried for the orientation session for 
 * Connect to a run time in the newly created notebook.
 * Mount the google drive by running the following code.
 
+```
 from google.colab import drive
 drive.mount('/content/drive')
+```
+* Navigate to the "Orientation" folder using the following command. Note : replace "/path/to/EN1060_Signals_and_Systems_Labs_190XXX/Orientation" with the true path.
+```
+% cd /path/to/EN1060_Signals_and_Systems_Labs_190XXX/Orientation
+```
+* Clone this github repository to the current folder.
+```
+! git clone https://github.com/achinthaw/SignalsAndSystems.git
+```
+* Close the "Clone_File.ipynb" and open the colab file ("Introduction_to_Google_Colab.ipynb") inside the newly cloned repository.
+Looking forwards to seeing you at class! :)
